@@ -1,0 +1,87 @@
+body {
+    text-align:center;
+    margin: 0;
+padding-top: 930px;
+  background-color: #7E3517 ;
+  }
+#pic {
+width: 1000px;
+margin: bottom 50px;
+}
+#sect1 {
+  bottom:0;
+width: 100%;
+height: 100%;
+position: absolute;
+background: linear-gradient(#000000 0%,#7E3517 100%);
+z-index:9;
+}
+#name {
+    font-size:80px;
+}
+#desc {
+font-size:45px;
+}
+#sect2 {
+  background-color: #7E3517 ;
+padding:20px;
+bottom: 0;
+}
+#videos {
+  text-align:center;
+  background-color: #7E3517 ;
+  bottom: 0;
+}
+p {
+font-size:28px;
+}
+h3 {
+font-size:35px;
+}
+h4 {
+  font-size:28px;
+}
+h2 {
+  font-size:35px;
+}
+h1 {
+  font-size:40px;
+}
+a {
+  font-size: 35px;
+  color: #000000;
+}
+#ak {
+  background-color: #7E3517 ;
+  padding:400px; 
+  bottom: 0;
+}
+hr {
+  color: #000000;
+}
+.menu {
+  color: white;
+  top:10px;
+  left:30px;
+  position:fixed;
+  list-style:none;
+}
+.links {
+  float: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size:25px;
+}
+.dsplysct {
+  display:table-cell;
+  position:relative;
+  text-align: center;
+  vertical-align: middle;
+}
+#con {
+  text-align:center;
+  background-color: #7E3517 ;
+  bottom: 0;
+}
